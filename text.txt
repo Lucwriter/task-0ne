@@ -1,0 +1,3 @@
+in HTML, the <meta charset="UTF-8> tag specifies the character encoding for unicode transformatiom format 8-bit and is a widely used character encoding that can represent most characters in unicode standard. 
+it allows HTML document to support a wide range of characters from different languages and scripts. 
+This meta tag ensures that the browser interprets the text in document correctly.
